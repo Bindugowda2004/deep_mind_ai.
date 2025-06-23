@@ -68,10 +68,9 @@ If needed, use a `.env` file to store keys safely.
 
 ## 🧑‍💻 Team
 
-- **Bindu S Gowda** – Developer & Data Analyst  
-- Affiliated with [Your Institution Name]  
-- Submission for **Flipkart Grid 7.0 – Shunya Hackathon**
-
+- **Bindu S** – Developer & Data Analyst  
+- **Anupriya S** - model training
+- **Lakshmi B V** - front end (UI)
 ---
 
 ## 📃 License
@@ -83,21 +82,9 @@ This project is under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For queries or collaborations, reach out at:  
-📧 bindugowda2004@example.com
+📧 pes1ug23cs840@pesu.pes.edu
 
 ---
 
 *Thank you for exploring our project!*
-````
 
----
-
-### ✅ What Next?
-
-* I can **customize this README** further based on:
-
-  * The objective of the project
-  * Dataset or algorithm details
-  * Screenshots or results if you want to showcase them
-
-Let me know if you want the README saved into a file or modified for deployment (e.g., Streamlit or Flask app).
